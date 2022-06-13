@@ -3,3 +3,7 @@ fileignoreconfig:
   checksum: d19560fd52a4398fa6b56869971819ac305d3349aa73240679c7439df43068eb
 - filename: src/main/resources/migrations/V1.2_CreateProductsTable.sql
   checksum: 88267b4795aa9309d9fa0c12936637205b73adfc9c52c1418072b99581caea93
+- filename: src/main/resources/migrations/V1.3_RenameNameToFullNameInUsersTable.sql
+  checksum: 97f324479e7f090f695adbbd4b81a40ad0ad457c408939279715d5b648d67a22
+- filename: src/main/resources/migrations/V1.4_AddPrimaryPhoneNumberInUsersTable.sql
+  checksum: b013b8c945c6191ba3036f325c2be39b485f17a57353498c503a07af73f066e6
